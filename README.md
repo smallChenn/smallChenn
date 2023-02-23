@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I am Bingjie Chen🐯, a computer science student at the University of York. I love coding 👩‍💻 and programming 🤖. <br>Being a coder is fantastic since it allows you to make your computer do whatever you want in order to make your ideas come true. <br>Programming is like being a painter and having every color in the universe on your palette, which excites me a lot❤️‍🔥 .
+Hi👋, I am Bingjie Chen🐯, a computer science student from University of York. I love coding 👩‍💻 and programming 🤖. <br>Being a coder is fantastic since it allows you to make your computer do whatever you want in order to make your ideas come true. <br>Programming is like being a painter and having every color in the universe on your palette, which excites me a lot❤️‍🔥 .
 
 
 ## 🌐 Socials:
